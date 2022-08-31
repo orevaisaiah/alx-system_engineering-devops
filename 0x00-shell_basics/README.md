@@ -5,3 +5,4 @@
 4-listmorefiles: This script is used to display current directory contents, including hidden files
 5-listfilesdigitonly: This script is used to display current directory contents.
 6-firstdirectory: This script is used to creates a directory named my_first_directory in the /tmp/ directory.
+7-movethatfile: This script is used to move the file betty from /tmp/ to /tmp/my_first_directory.
