@@ -14,3 +14,4 @@
 13-change_group: This script is used to change the group owner to school for the file hello
 100-change_owner_and_group: This script is used to change the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 101-symbolic_link_permissions: This is a script used to change the owner and the group owner of _hello to vincent and staff respectively. The file _hello is in the working directory and file _hello is a symbolic link.
+102-if_only: This script is used to change the owner of the file hello to betty only if it is owned by the user guillaume.
