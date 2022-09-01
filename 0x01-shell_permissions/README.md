@@ -10,4 +10,5 @@
 9-John_Doe: This file is used to set the mode of the file hello to -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10-mirror_permissions: This script is used to set the mode of the file hello the same as olleh’s mode.
 11-directories_permissions: This script is used to add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+12-directory_permissions: This script is used to create  a directory called my_dir with permissions 751 in the working directory.
 
