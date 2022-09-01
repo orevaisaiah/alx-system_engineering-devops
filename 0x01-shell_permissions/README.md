@@ -3,3 +3,4 @@
 2-groups: This script is used to print all the groups the current user is part of.
 3-new_owner: This script is used to change the owner of the file hello to the user betty.
 4-empty: This script is used to create an empty file called hello.
+5-execute: This script is used to add execute permission to the owner of the file hello.
