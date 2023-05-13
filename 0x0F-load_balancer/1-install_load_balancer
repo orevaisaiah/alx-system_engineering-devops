@@ -16,8 +16,8 @@ frontend  oreva-frontend
         default_backend oreva-backend
 backend oreva-backend
         balance roundrobin
-        server 119408-web-01 100.26.232.251:80 check
-        server 119408-web-02 100.26.163.103:80 check
+        server 119408-web-01 18.209.225.232:80 check
+        server 119408-web-02 100.25.202.108:80 check
 "
 echo "$server_config" | sudo tee -a /etc/haproxy/haproxy.cfg
 
