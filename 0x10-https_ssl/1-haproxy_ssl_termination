@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# write a Bash script that will display information about the subdomains
 
 global
 	log /dev/log	local0
